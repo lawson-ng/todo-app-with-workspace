@@ -10,5 +10,8 @@
   "license": "ISC",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
 }
